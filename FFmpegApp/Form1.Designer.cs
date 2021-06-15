@@ -29,6 +29,7 @@ namespace FFmpegApp
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.buttonStart = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
@@ -170,6 +171,7 @@ namespace FFmpegApp
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.buttonStart);
             this.Controls.Add(this.pictureBox1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "视频处理工具箱 by:zhi v0.0.9";
             this.Load += new System.EventHandler(this.Form1_Load);
