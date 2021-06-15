@@ -2,7 +2,7 @@
 
 ## 截图
 
-![](https://www.imglink.cc/images/2021/06/15/47d2a29aa93095e91d25ee5fa1dca365.png)
+![](https://www.imglink.cc/images/2021/06/15/57a5be1fefa14795cc83c736a9f343f2.png)
 
 ## 使用说明
 
